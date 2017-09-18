@@ -2,7 +2,7 @@ package sushu;
 import java.util.Scanner;
 public class sushuqiuhe {
 //
-
+//
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner in = new Scanner(System.in);
